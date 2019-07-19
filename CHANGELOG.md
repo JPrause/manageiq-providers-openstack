@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 
-## Hammer-8
+## Hammer-9
 
 ### Fixed
 - Exclude 'all_tenants' option when querying Ceilometer for events [(#467)](https://github.com/ManageIQ/manageiq-providers-openstack/pull/467)
